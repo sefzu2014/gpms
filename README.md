@@ -6,7 +6,7 @@ Graduation Project Management System
 
 trunk  
 .......\web //put your web project here  
-.......\android //put your android project  here
+.......\android //put your android project here  
 .......\doc //put your documents about the project here  
 
 how to fork this repository into your group's organization:  
